@@ -1,12 +1,3 @@
-/**
-*
-* @author GÖKÇE USTA
-* @since MART-NİSAN 2024 BAHAR DÖNEMİ
-* <p>
-* 2.ÖĞRETİM B GRUBU 
-* </p>
-*/
-
 package sinifAnalizi;
 
 import java.io.BufferedReader;
